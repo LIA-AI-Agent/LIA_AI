@@ -42,7 +42,6 @@ You: "What’s the sentiment around ElonDoge today?"
 LIA: "ElonDoge has a positive sentiment score of 0.85. Trading volume has increased by 40% in the last 24 hours. Recommended action: Buy with caution."
 
 3. **Result**: LIA equips you with the information needed to capitalize on market opportunities while minimizing risks.
-### Running Ezra Locally
 
 ---
 
