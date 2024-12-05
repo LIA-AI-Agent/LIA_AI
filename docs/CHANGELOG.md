@@ -1,5 +1,5 @@
 
-# Ezra AI Changelog
+# Changelog
 
 This file keeps track of the changes and updates made to Ezra AI over time. Each version of Ezra AI will have a corresponding entry, describing the changes, bug fixes, and new features.
 
@@ -8,7 +8,7 @@ This file keeps track of the changes and updates made to Ezra AI over time. Each
 
 ## [v1.0.0] - 2024-11-28
 ### Added
-- Initial release of Ezra AI.
+- Initial release.
 - Integration with the Solana blockchain to analyze wallet activity.
 - Twitter bot integration to receive wallet addresses and provide analysis.
 - Basic analysis of trading habits such as emotional impact, roundtrips, and paperhanding.
