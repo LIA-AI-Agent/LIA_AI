@@ -15,7 +15,6 @@ LIA AI is a sophisticated AI-driven assistant designed to provide actionable ins
 - **Staking and Yield Opportunities**: Discover high-yield staking and farming options to maximize passive income from memecoins.
 
 ---
-## Example Use Case
 
 ## How to Use
 
