@@ -1,7 +1,7 @@
 
-# LIA AI - Your Memecoin Trading Companion
+# VIA AI - Your Memecoin Trading Companion
 
-LIA AI is a sophisticated AI-driven assistant designed to provide actionable insights for memecoin traders, particularly in the fast-paced world of pump.fun coins. By leveraging advanced analytics, sentiment evaluation, and real-time market data, LIA helps you navigate the volatile memecoin ecosystem with confidence. Whether you're a newcomer or an experienced trader, LIA AI equips you with the tools needed to make informed decisions and maximize your profits.
+VIA AI is a sophisticated AI-driven assistant designed to provide actionable insights for memecoin traders, particularly in the fast-paced world of pump.fun coins. By leveraging advanced analytics, sentiment evaluation, and real-time market data, VIA helps you navigate the volatile memecoin ecosystem with confidence. Whether you're a newcomer or an experienced trader, VIA AI equips you with the tools needed to make informed decisions and maximize your profits.
 
 ---
 
@@ -18,16 +18,16 @@ LIA AI is a sophisticated AI-driven assistant designed to provide actionable ins
 
 ## How to Use
 
-### LIA Chatbot Integration
+### VIA Chatbot Integration
 
-1. **Ask LIA Questions**: Interact with LIA through the chatbot on the website or designated platforms.
+1. **Ask VIA Questions**: Interact with VIA through the chatbot on the website or designated platforms.
    
    Example queries:
    - "Which pump.fun coins are trending today?"
    - "What’s the sentiment on PepeCoin this week?"
    - "What are the best staking opportunities for SHIBA right now?"
 
-2. **Get Instant Analysis**: LIA will respond with real-time data, market insights, and actionable trading advice tailored to your needs.
+2. **Get Instant Analysis**: VIA will respond with real-time data, market insights, and actionable trading advice tailored to your needs.
 
 ---
 
@@ -38,15 +38,15 @@ LIA AI is a sophisticated AI-driven assistant designed to provide actionable ins
 
 2. **Interaction**:
 You: "What’s the sentiment around ElonDoge today?"
-LIA: "ElonDoge has a positive sentiment score of 0.85. Trading volume has increased by 40% in the last 24 hours. Recommended action: Buy with caution."
+VIA: "ElonDoge has a positive sentiment score of 0.85. Trading volume has increased by 40% in the last 24 hours. Recommended action: Buy with caution."
 
-3. **Result**: LIA equips you with the information needed to capitalize on market opportunities while minimizing risks.
+3. **Result**: VIA equips you with the information needed to capitalize on market opportunities while minimizing risks.
 
 ---
 
-## How LIA AI Analyzes Memecoin Trading
+## How VIA AI Analyzes Memecoin Trading
 
-LIA’s AI engine evaluates several key factors to guide your memecoin strategy:
+VIA’s AI engine evaluates several key factors to guide your memecoin strategy:
 
 ### Market Trends:
 - Tracks trading volume, price fluctuations, and volatility in real-time.
@@ -68,4 +68,4 @@ LIA’s AI engine evaluates several key factors to guide your memecoin strategy:
 - Identifies opportunities to maximize passive income with low-risk staking and yield farming options.
 - Evaluates lock-up periods and reward risks to match your investment goals.
 
-Thank you for using LIA AI — your Logical Investment Advisor!
+Thank you for using VIA AI — your VIA Investment Advisor!
